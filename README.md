@@ -34,7 +34,8 @@
   - `Ctrl+Alt+K` → Start listening
   - `Ctrl+Alt+P` → Pause listening
   - `` ` `` → Start recording (GUI)
-
+ 
+ 
 ---
 
 ## ⚡ Installation
@@ -43,4 +44,8 @@
 ```bash
 git clone https://github.com/yourusername/Voice-Assistant
 cd GUI
+---
+
+
+
 
